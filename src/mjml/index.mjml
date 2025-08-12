@@ -48,20 +48,20 @@
       </mj-group>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-text>Meural Canvas</mj-text>
-        <mj-text>Un écrin pour visualiser vos NFT</mj-text>
+      <mj-column width="100%">
+        <mj-text padding="0" align="center">Meural Canvas</mj-text>
+        <mj-text padding="0" align="center">Un écrin pour visualiser vos NFT</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="./images/illustration.jpg" alt=""/>
+      <mj-column width="100%">
+        <mj-image padding="0" width="700px" src="./images/illustration.jpg" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-text>Accédez à l'univers d'Async Art depuis votre tableau Meural</mj-text>
-        <mj-text>Les propriétaires d'un tableau numérique Meural peuvent maintenant découvrir un nouveau monde d'oeuvres d'art NFT disponibles sur la plateforme Async Art. Découvrez des oeuvres d'art dynamiques uniques en leur genre, programmables et capables de réagir à l'heure du jour, à la météo ... au gré de vos envies.</mj-text>
-        <mj-text>Faites l'expérience du Crypto Art d'une manière qui n'a jamais été possible auparavant.</mj-text>
-        <mj-text>Et pour ceux qui ne possèdent pas encore de tableau d'art connecté Meural, profitez dès maintenant des offres en cours ! </mj-text>
+      <mj-column width="100%">
+        <mj-text padding="0" align="center">Accédez à l'univers d'Async Art depuis votre tableau Meural</mj-text>
+        <mj-text padding="0" align="center">Les propriétaires d'un tableau numérique Meural peuvent maintenant découvrir un nouveau monde d'oeuvres d'art NFT disponibles sur la plateforme Async Art. Découvrez des oeuvres d'art dynamiques uniques en leur genre, programmables et capables de réagir à l'heure du jour, à la météo ... au gré de vos envies.</mj-text>
+        <mj-text padding="0" align="center">Faites l'expérience du Crypto Art d'une manière qui n'a jamais été possible auparavant.</mj-text>
+        <mj-text padding="0" align="center">Et pour ceux qui ne possèdent pas encore de tableau d'art connecté Meural, profitez dès maintenant des offres en cours !</mj-text>
         <mj-button>Découvrir</mj-button>
       </mj-column>
     </mj-section>
