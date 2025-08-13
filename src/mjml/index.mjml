@@ -91,10 +91,10 @@
       </mj-column>
       <mj-column width="33.333333%">
         <mj-image padding="0" width="214.41px" src="./images/mc315.jpg" alt=""/>
-        <mj-text padding="0" align="center">Tableau d'Art Connecté</mj-text>
-        <mj-text padding="0" align="center">Meural 15" (MC315)</mj-text>
-        <mj-text padding="0" align="center">Jusqu'à -100 €</mj-text>
-        <mj-text padding="0" align="center">Donnez du style à son intérieur avec une toile d'Art moderne et épuré.</mj-text>
+        <mj-text padding="0" align="center">Cadre Photo Numérique</mj-text>
+        <mj-text padding="0" align="center">Meural (MC315)</mj-text>
+        <mj-text padding="0" align="center">-50 €</mj-text>
+        <mj-text padding="0" align="center">Pour partager les moments de votre vie instantanément.</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
