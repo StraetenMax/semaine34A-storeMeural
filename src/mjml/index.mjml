@@ -48,8 +48,8 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section>
-      <mj-column width="100%" mj-class="bgM">
+    <mj-section padding="0">
+      <mj-column padding="20px 35px" width="100%" mj-class="bgM">
         <mj-text padding="0" align="center" mj-class="T30-300 cTW" letter-spacing="2px">Meural Canvas</mj-text>
         <mj-text padding="0" align="center" mj-class="T30-300 cTW" letter-spacing="2px">Un écrin pour visualiser vos NFT</mj-text>
       </mj-column>
@@ -57,7 +57,7 @@
         <mj-image padding="0" width="700px" src="./images/illustration.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="15px 25px" mj-class="bgW">
       <mj-column width="100%">
         <mj-text padding="0" align="center" mj-class="T26-400 cT1" letter-spacing="0.5px">Accédez à l'univers d'Async Art depuis votre tableau Meural</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1">Les propriétaires d'un tableau numérique Meural peuvent maintenant découvrir un nouveau monde d'oeuvres d'art NFT disponibles sur la plateforme Async Art. Découvrez des oeuvres d'art dynamiques uniques en leur genre, programmables et capables de réagir à l'heure du jour, à la météo ... au gré de vos envies.</mj-text>
