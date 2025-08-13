@@ -75,26 +75,26 @@
     <mj-section>
       <mj-column width="33.333333%">
         <mj-image padding="0" width="214.41px" src="./images/mc327.gif" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Tableau d'Art Connecté</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Meural 27" (MC327)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Jusqu'à -300 €</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Donnez du style à son intérieur avec une toile d'Art moderne et épuré.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Tableau d'Art Connecté</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Meural 27" (MC327)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à -300 €</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Donnez du style à son intérieur avec une toile d'Art moderne et épuré.</mj-text>
         <mj-button mj-class="bgM">J'en profite</mj-button>
       </mj-column>
       <mj-column width="33.333333%">
         <mj-image padding="0" width="214.41px" src="./images/mc321.gif" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Tableau d'Art Connecté</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Meural 21" (MC321)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Jusqu'à -200 €</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Donnez du style à son intérieur avec une toile d'Art moderne et épuré.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Tableau d'Art Connecté</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Meural 21" (MC321)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à -200 €</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Donnez du style à son intérieur avec une toile d'Art moderne et épuré.</mj-text>
         <mj-button mj-class="bgM">J'en profite</mj-button>
       </mj-column>
       <mj-column width="33.333333%">
         <mj-image padding="0" width="214.41px" src="./images/mc315.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Cadre Photo Numérique</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Meural (MC315)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">-50 €</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Pour partager les moments de votre vie instantanément.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Cadre Photo Numérique</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Meural (MC315)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">-50 €</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Pour partager les moments de votre vie instantanément.</mj-text>
         <mj-button mj-class="bgM">J'en profite</mj-button>
       </mj-column>
     </mj-section>
