@@ -16,6 +16,7 @@
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
       <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
+      <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="300"/>
       <mj-class name="T26-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="400"/>
       <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="300"/>
       <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
@@ -48,9 +49,9 @@
       </mj-group>
     </mj-section>
     <mj-section>
-      <mj-column width="100%">
-        <mj-text padding="0" align="center">Meural Canvas</mj-text>
-        <mj-text padding="0" align="center">Un écrin pour visualiser vos NFT</mj-text>
+      <mj-column width="100%" mj-class="bgM">
+        <mj-text padding="0" align="center" mj-class="T30-300 cTW" letter-spacing="2px">Meural Canvas</mj-text>
+        <mj-text padding="0" align="center" mj-class="T30-300 cTW" letter-spacing="2px">Un écrin pour visualiser vos NFT</mj-text>
       </mj-column>
       <mj-column width="100%">
         <mj-image padding="0" width="700px" src="./images/illustration.jpg" alt=""/>
@@ -58,11 +59,11 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-text padding="0" align="center">Accédez à l'univers d'Async Art depuis votre tableau Meural</mj-text>
-        <mj-text padding="0" align="center">Les propriétaires d'un tableau numérique Meural peuvent maintenant découvrir un nouveau monde d'oeuvres d'art NFT disponibles sur la plateforme Async Art. Découvrez des oeuvres d'art dynamiques uniques en leur genre, programmables et capables de réagir à l'heure du jour, à la météo ... au gré de vos envies.</mj-text>
-        <mj-text padding="0" align="center">Faites l'expérience du Crypto Art d'une manière qui n'a jamais été possible auparavant.</mj-text>
-        <mj-text padding="0" align="center">Et pour ceux qui ne possèdent pas encore de tableau d'art connecté Meural, profitez dès maintenant des offres en cours !</mj-text>
-        <mj-button>Découvrir</mj-button>
+        <mj-text padding="0" align="center" mj-class="T26-400 cT1" letter-spacing="0.5px">Accédez à l'univers d'Async Art depuis votre tableau Meural</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Les propriétaires d'un tableau numérique Meural peuvent maintenant découvrir un nouveau monde d'oeuvres d'art NFT disponibles sur la plateforme Async Art. Découvrez des oeuvres d'art dynamiques uniques en leur genre, programmables et capables de réagir à l'heure du jour, à la météo ... au gré de vos envies.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Faites l'expérience du Crypto Art d'une manière qui n'a jamais été possible auparavant.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Et pour ceux qui ne possèdent pas encore de tableau d'art connecté Meural, profitez dès maintenant des offres en cours !</mj-text>
+        <mj-button mj-class="bgM">Découvrir</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
