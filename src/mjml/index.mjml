@@ -111,8 +111,8 @@
         <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
-      <mj-column width="100%">
+    <mj-section padding="0" mj-class="bgW">
+      <mj-column width="100%" padding-top="40px" padding-bottom="20px">
         <mj-image padding="0" width="700px" src="./images/video.jpg" alt=""/>
       </mj-column>
       <mj-column padding="15px" padding-bottom="25px" width="100%" mj-class="bgT1">
